@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rdf-trig (0.0.1)
+    rdf-trig (0.1.0)
       rdf (>= 0.3.4)
       rdf-turtle (>= 0.1.1)
 
